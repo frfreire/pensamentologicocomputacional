@@ -1,1 +1,1 @@
-# pensamentologicocomputacional
+# Pensamento Lógico Computacional utilizando Python
