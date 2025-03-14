@@ -1,4 +1,4 @@
-# Pensamento Lógico Computacional com Python
+# Curso de Pensamento Lógico Computacional com Python
 
 ## Aula 1 - Introdução à Lógica de Programação e Python
 ### Conteúdo Teórico
